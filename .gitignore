@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.bin
+logs/server_*.log
+test_files/
