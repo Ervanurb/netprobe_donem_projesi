@@ -118,3 +118,11 @@ python client.py --file test.txt
 | Senaryo 2 | Timeout süresi         | chunk=1024, loss=%10             |
 | Senaryo 3 | Kayıp oranı            | chunk=1024, timeout=0.5s         |
 | Senaryo 4 | Dosya boyutu           | chunk=1024, timeout=0.5s, loss=0 |
+
+## Geliştiriciler
+
+Erva Nur Bostancı
+
+Tuğba Çevik
+
+Eren Bezek
